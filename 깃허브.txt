@@ -1,0 +1,29 @@
+https://github.com/q99nbp/spring_qna_25.02.24
+
+1. 로컬저장소 - git init
+2. 원격저장소와 연결 -  git remote add origin 		      https://github.com/q99nbp/spring_qna_25.02.24
+
+3. 최초한번 이메일과, 계정명
+            git config --global user.email "q99nbp@gmail.com"
+	git config --global user.name "q99nbp
+
+4. 로컬저장소에 작업파일 올리기 - git add .  
+
+5. 작업설명
+	git commit -m "설명"
+
+6. 원격저장소에 올리기  - git push origin master
+
+7. 로그확인 - git log
+
+
+
+
+
+
+
+
+
+
+
+
